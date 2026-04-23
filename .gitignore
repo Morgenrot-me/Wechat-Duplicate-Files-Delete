@@ -1,0 +1,8 @@
+build/**
+dist/**
+*.spec
+test/**
+.vscode
+.venv-build/**
+__pycache__/**
+ui.ui
